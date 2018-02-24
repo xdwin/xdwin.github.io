@@ -5,7 +5,7 @@ menu: true
 order: 3
 ---
 
-## Hydejack
+<!-- ## Hydejack
 Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
 
 > Your presence on the web --- A [blog], a [portfolio] and a [resume].
@@ -82,4 +82,4 @@ Open `about.md` to edit this text.
 [gem]: https://rubygems.org/gems/jekyll-theme-hydejack
 [buy]: https://app.simplegoods.co/i/AQTTVBOE
 
-[wiki]: https://github.com/qwtel/hydejack/wiki
+[wiki]: https://github.com/qwtel/hydejack/wiki -->
