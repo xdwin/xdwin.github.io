@@ -1,5 +1,5 @@
 ---
-layout: list
+<!-- layout: list
 title: Hyde
 slug: hyde
 menu: true
@@ -11,5 +11,5 @@ description: >
 
 # http://jsfiddle.net/LPxrT/
 image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
-color: '#268bd2'
+color: '#268bd2' -->
 ---
