@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Life
-slug: life
+title: Misc
+slug: misc
 menu: true
-order: 1
+order: 2
 description: >
   Here you can find posts about my messy and ordinary life.
 
