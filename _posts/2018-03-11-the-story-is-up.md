@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Story is Up!'
+comments: true
 tags: [life]
 ---
 

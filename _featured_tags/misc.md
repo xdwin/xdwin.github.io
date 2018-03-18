@@ -8,6 +8,6 @@ description: >
   Here you can find posts about my messy and ordinary life.
 
 # http://jsfiddle.net/LPxrT/
-image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
-color: '#268bd2'
+image: '/assets/img/nap.jpg'
+color: '#4f86aa'
 ---
